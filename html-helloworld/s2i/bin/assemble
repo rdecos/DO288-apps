@@ -1,1 +1,6 @@
-cp -Rf  /html/*.html ./
+cp -Rf  ./html/*.html ./
+
+
+DATE=$(date "+%Y-%m-%d")
+
+echo "mensaje $DATE"  >> /var/www/html/info.html
