@@ -1,4 +1,4 @@
-cp -Rf  /html/*.html ./
+#cp -Rf  /html/*.html ./
 
 
 DATE=$(date "+%Y-%m-%d")
