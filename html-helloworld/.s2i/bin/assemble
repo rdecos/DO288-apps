@@ -5,5 +5,5 @@ DATE=$(date "+%Y-%m-%d")
 
 #echo "mensaje $DATE"  >> /opt/app-root/src/info.html
 
-echo "mensaje "  >> info.html
+echo "mensaje "  >> /tmp/src/info.html
 
