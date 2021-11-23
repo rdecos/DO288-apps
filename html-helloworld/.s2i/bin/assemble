@@ -1,0 +1,9 @@
+#cp -Rf  /html/*.html ./
+
+
+DATE=$(date "+%Y-%m-%d")
+
+#echo "mensaje $DATE"  >> /opt/app-root/src/info.html
+
+echo "mensaje "  >> info.html
+
