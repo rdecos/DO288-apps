@@ -1,0 +1,4 @@
+
+
+
+echo "mensaje "  >> /opt/app-root/src/info.html
