@@ -2,4 +2,4 @@ cp -Rf /tmp/src/* /var/www/html/
 
 DATE=$(date "+%Y-%m-%d")
 
-echo "mensaje $DATE" >> info.html
+echo "mensaje $DATE" >> /var/www/html/info.html
