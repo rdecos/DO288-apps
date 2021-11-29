@@ -1,4 +1,4 @@
-cp -Rf /tmp/src/* ./
+cp -Rf /tmp/src/* /var/www/html/ 
 
 DATE=$(date "+%Y-%m-%d")
 
