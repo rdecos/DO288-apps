@@ -16,7 +16,7 @@ cp -Rf /tmp/src/*.html ./
 
 DATE=$(date +%Y-%m-%d)
 
-echo "Mensaje de rafa $DATE"  >> .info.html
+echo "Mensaje de rafa $DATE"  >> ./info.html
 
 echo "---> Creating info page"
 echo "Proudly served by Apache HTTP Server version $HTTPD_VERSION" >> ./info.html
